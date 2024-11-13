@@ -1,0 +1,21 @@
+#img{width: 70px;
+
+}
+h1{text-align: center;
+    color:black;
+
+}
+h2{color: darkgoldenrod;
+    text-align: center;
+
+}
+h3{color: darkcyan;
+    border-width: 20%;
+
+}
+h4{color: darkgoldenrod;
+    text-align: center;
+    width: 10;
+
+}
+body{background-color: rgb(80, 80, 190);}
